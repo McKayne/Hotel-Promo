@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hotel Promo</string>
+    <string name="sign_in">Войти в аккаунт</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="google_auth">Вход через Google-аккаунт</string>
+    <string name="no_account">Еще нет аккаунта?</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+
+    <string name="sign_up_description">NEOS — отель, фитнес и ресторан в одном комплексе. Создайте аккаунт для того, чтобы иметь возможность копить баллы и использовать в следующий раз в любом из наших проектов</string>
+</resources>
