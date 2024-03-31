@@ -107,6 +107,7 @@ fun SignUpScreen(navController: NavHostController, transitionState: () -> EnterE
 
                         // exo player view for our video player
                         PlayerView(context).apply {
+                            useController = false
                             player = exoPlayer
                             resizeMode = AspectRatioFrameLayout.RESIZE_MODE_ZOOM
                             layoutParams =
